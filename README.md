@@ -67,6 +67,13 @@ Le modèle final est intégré dans une solution logicielle permettant d’effec
 ### Conclusion Générale
 Le projet a permis de développer une solution de maintenance prédictive efficace, réduisant les temps d'arrêt des turboréacteurs et permettant de mieux anticiper les besoins de maintenance.
 
-Bibliographie et Webographie
+## Bibliographie et Webographie
 Références de la littérature
 Sources web et documentation
+
+## test
+![Test](https://github.com/nessrine-lafhal/Predictive-Maintenance-Predictive-maintenance-of-NASA-s-turbofan-engine/blob/main/img1.png)
+![Test](https://github.com/nessrine-lafhal/Predictive-Maintenance-Predictive-maintenance-of-NASA-s-turbofan-engine/blob/main/img2.png)
+![Test](https://github.com/nessrine-lafhal/Predictive-Maintenance-Predictive-maintenance-of-NASA-s-turbofan-engine/blob/main/img3.png)
+
+
